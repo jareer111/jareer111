@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jareer111&label=Profile%20views&color=0e75b6&style=flat" alt="jareer111" /> </p>
 
-- 💬 Ask me about   **Java,  Spring,  PostgresSQL**
+- 💬 Ask me about   **[Java](https://www.java.com/en),  [Spring](https://spring.io),  [PostgresSQL](https://www.postgresql.org)**
 
 - 📫 How to reach me   **javokhir544@gmail.com**
 
