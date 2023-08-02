@@ -1,4 +1,4 @@
-![image](https://github.com/jareer111/jareer111/assets/113532802/10b8a0be-2246-4049-a1da-ba08e4bd379d)
+![image](https://github.com/jareer111/jareer111/assets/113532802/6eb549e3-6a78-4050-81d0-e82e4efa6323)
 
 <h1 align="center">Hi 👋,   I'm   Javohir</h1>
 <h1 align="center">Java backend developer from Uzbekistan 🇺🇿 </h1>
