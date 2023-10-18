@@ -12,7 +12,7 @@
 
 - 📄 Know about my experiences   [resume](https://drive.google.com/file/d/1J_x0dJJ8iAeZKB9I-oU8QAGjRAp-DLGh/view?usp=sharing)
 
-<h3 align="left">Connect with me:    [+998 94 989 8698]  </h3>
+<h3 align="left">Connect with me:    +998 94 98 98 698  </h3>
 <p align="left">
 <a href="https://linkedin.com/in/jareer111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jareer111" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/javokhir544" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="javokhir544" height="30" width="40" /></a>
