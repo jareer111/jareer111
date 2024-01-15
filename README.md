@@ -10,7 +10,7 @@
 
 - 📫 How to reach me   **javokhir544@gmail.com**
 
-- 📄 Know about my experiences   [resume](https://drive.google.com/file/d/1J_x0dJJ8iAeZKB9I-oU8QAGjRAp-DLGh/view?usp=sharing)
+- 📄 Know about my experiences   [resume](https://drive.google.com/file/d/11XS5xAbnYUMRQk4yWJdTZAnzLkme3qsx/view?usp=sharing)
 
 
 <h2 align="left">Contact me: +99894 989 86 98</h2>
