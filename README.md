@@ -10,8 +10,6 @@
 
 - 📫 How to reach me   **javokhir544@gmail.com**
 
-- 📄 Know about my experiences   [resume](https://drive.google.com/file/d/11XS5xAbnYUMRQk4yWJdTZAnzLkme3qsx/view?usp=sharing)
-
 
 <h2 align="left">Contact me: +99894 989 86 98</h2>
 <a href="https://linkedin.com/in/jareer111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jareer111" height="30" width="40" /></a>
